@@ -1,7 +1,7 @@
-CCEndlessScrollingTileMap
+CCLargeScrollingTileMap
 =========================
 
-A tile map for large board games
+A hex tile map for large board games
 
 Goals
 ---------------
