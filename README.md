@@ -5,7 +5,7 @@ A tile map for large board games
 
 Goals
 ---------------
-* Maintain ~50-60 FPS
+* Maintain ~50-60 FPS even when mutiple actions are running
 
 Todo
 -----------------
