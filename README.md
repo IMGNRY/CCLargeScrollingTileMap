@@ -3,7 +3,8 @@ CCEndlessScrollingTileMap
 
 A tile map for large board games
 
-Goals:  
+Goals
+-----
 * Maintain ~50-60 FPS
 
 Todo:  
