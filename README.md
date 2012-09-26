@@ -1,7 +1,7 @@
 CCLargeScrollingTileMap
 =========================
 
-A hex tile map for large board games
+A scrollable hex tile map for large board game worlds
 
 Goals
 ---------------
